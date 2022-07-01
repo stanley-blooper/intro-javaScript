@@ -28,4 +28,4 @@ selectedColors[2]='purple';
 console.log('Hello World')
 
  }
- //function with 
+ //function with stanley
